@@ -28,16 +28,6 @@ const Title = styled.h1`
     text-align: center;
 `;
 
-const Card = styled.section`
-    background: #300a24;
-    color: white;
-    padding: 1rem;
-    margin-bottom: 1rem;
-    h3 {
-        margin-top: 0;
-    }
-`;
-
 const List = styled.ul``;
 
 const App = () => {
